@@ -1,1 +1,1 @@
-# machine_learning_unn
+# Repo for machine learning homeworks
